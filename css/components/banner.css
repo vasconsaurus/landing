@@ -1,0 +1,16 @@
+.banner {
+  background-image: linear-gradient(0deg, rgba(248, 109, 112, 0.7), rgba(108, 99, 205, 1)), url("https://images.mubicdn.net/images/film/175237/cache-232238-1637593710/image-w1280.jpg");
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner__info {
+  text-align: center;
+}
+
+.banner__info a {
+  font-size: 0.7rem;
+}
