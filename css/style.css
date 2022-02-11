@@ -31,7 +31,6 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 10rem;
   line-height: 50%;
-  color: rgba(108, 99, 205, 1);
 }
 
 h2 {
@@ -65,5 +64,6 @@ footer {
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   h1 {
-    font-size: 7rem;
+    font-size: 5rem;
   }
+}
