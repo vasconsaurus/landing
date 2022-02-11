@@ -42,7 +42,12 @@ a {
 }
 
 p {
-  font-size: 18px;
+  font-size: 1.25rem;
+}
+
+.fa-solid {
+  margin-top: 0.25rem;
+  font-size: 0.5rem;
 }
 
 /* Custom design below! */
@@ -53,7 +58,7 @@ p {
 
 footer p{
   text-align: center;
-  font-size: 10px;
+  font-size: 0.75rem;
   margin: 0;
 }
 
