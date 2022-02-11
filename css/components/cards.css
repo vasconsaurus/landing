@@ -39,6 +39,7 @@ p {
 }
 
 .card a {
+  color:rgba(108, 99, 205, 1);
   transition: 0.3s;
 }
 
